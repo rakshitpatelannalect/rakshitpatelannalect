@@ -18,5 +18,5 @@ Welcome to my GitHub profile! I'm a passionate Full-Stack Developer with a stron
 
 ---
 
-🚀 *Looking forward to collaborating on exciting projects and contributing to the open-source community!*
+🚀 *Looking forward to collaborating on exciting projects*
 
