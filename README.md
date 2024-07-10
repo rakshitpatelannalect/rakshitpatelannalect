@@ -20,3 +20,4 @@ Welcome to my GitHub profile! I'm a passionate Full-Stack Developer with a stron
 
 🚀 *Looking forward to collaborating on exciting projects*
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rakshitbharat&show_icons=true&bg_color=00000000)
